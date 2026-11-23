@@ -1,0 +1,5 @@
+/target/
+/dist/
+/extracted/
+*.pbp
+*.sfo

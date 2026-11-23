@@ -1,0 +1,12 @@
+[package]
+name = "pbp-tools"
+version = "0.1.0"
+edition = "2021"
+description = "A small cross-platform CLI for PSP PBP archives and PARAM.SFO files"
+license = "GPL-2.0-only"
+
+[[bin]]
+name = "pbp"
+path = "src/main.rs"
+
+[dependencies]
