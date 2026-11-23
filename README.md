@@ -19,11 +19,6 @@ cargo build --release --target x86_64-pc-windows-gnu
 cargo build --release --target x86_64-pc-windows-msvc
 ```
 
-Prebuilt binaries from this workspace are sitting in `dist/`:
-
-- `dist/pbp-linux-aarch64`
-- `dist/pbp-windows-x86_64.exe`
-
 ## Commands
 
 ```text
